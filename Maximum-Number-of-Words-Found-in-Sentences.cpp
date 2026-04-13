@@ -10,8 +10,8 @@
 10            if(sentences[i][j]==' ')
 11            {
 12                a++;
-13                maxi=max(maxi,a);
-14            }
+13            }
+14            maxi=max(maxi,a);
 15           }
 16        }
 17        return maxi;
