@@ -1,7 +1,7 @@
 1class Solution {
 2public:
 3    bool isHappy(int n) {
-4         set<int> seen;
+4        set<int> seen;
 5        int a,b,c;
 6        while(n!=1)
 7        {
